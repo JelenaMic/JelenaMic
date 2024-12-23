@@ -2,6 +2,10 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-JelenaMic&color=blueviolet)
 
+<a href="https://JelenaMic.github.io/">
+        <img src="https://img.shields.io/badge/My%20Portfolio-Explore-brightgreen"/>
+    </a>
+
 > "Ensuring quality is not just a job, it's a passion."
 
 [![Badge: LinkedIn]](your-linkedin-profile)
