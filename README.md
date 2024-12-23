@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-JelenaMic&color=blueviolet)
 
-<a href="https://JelenaMic.github.io/">
+<a href="https://JelenaMic.github.io/" target="_blank">
         <img src="https://img.shields.io/badge/My%20Portfolio-Explore-brightgreen"/>
     </a>
 
