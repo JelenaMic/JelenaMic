@@ -2,6 +2,16 @@
 
 ![](https://komarev.com/ghpvc/?username=JelenaMic&color=blueviolet&style=plastic)
 
+<div>
+  <a href="https://www.linkedin.com/in/jelena-michaliova-3a0449282/">
+    <img src="https://shields.io/badges/-LinkedIn-0072b1?e&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://jelenamic.github.io">
+  <img src="https://shields.io/badges/My%20Portfolio-Explore-brightgreen"/>
+  </a>
+</div>
+<br/>
+
 "Ensuring quality is not just a job, it's a passion."
 ![Badge: LinkedIn] ![Badge: Twitter]
 
