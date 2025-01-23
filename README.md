@@ -3,10 +3,10 @@
 ![](https://komarev.com/ghpvc/?username=JelenaMic&color=blueviolet&style=plastic)
 
 <div>
-  <a href="https://www.linkedin.com/in/jelena-michaliova-3a0449282/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/jelena-michaliova-3a0449282/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://jelenamic.github.io" target="_blank" rel="noopener noreferrer">
+  <a href="https://jelenamic.github.io" target="_blank">
     <img src="https://img.shields.io/badge/My%20Portfolio-Explore-brightgreen?style=plastic" alt="Portfolio Badge"/>
   </a>
 </div>
