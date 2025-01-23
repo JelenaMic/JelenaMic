@@ -1,6 +1,6 @@
 [Your Name] - Quality Assurance Engineer
 
-![](https://komarev.com/ghpvc/?username=JelenaMic&color=ff69b4)
+![](https://komarev.com/ghpvc/?username=JelenaMic&color=blueviolet)
 
 "Ensuring quality is not just a job, it's a passion."
 ![Badge: LinkedIn] ![Badge: Twitter]
