@@ -16,6 +16,11 @@ Programming: [JavaScript/TypeScript] [Python] [Java]
 Methodologies: [Agile] [Scrum] [TDD/BDD]
 Tools: [Jira] [TestRail] [Postman] [Other Tools]
 Cloud Platforms: [AWS] [Azure] [Google Cloud]
+
+![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+
+![HTML Badge](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
 🚀 Featured Projects
 
 [Project Name]: [Brief description, highlighting your QA role and contributions] ![Screenshot of Project 1]
