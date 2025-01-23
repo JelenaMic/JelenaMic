@@ -4,10 +4,10 @@
 
 <div>
   <a href="https://www.linkedin.com/in/jelena-michaliova-3a0449282/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://jelenamic.github.io">
-    <img src="https://img.shields.io/badge/My%20Portfolio-Explore-brightgreen?style=for-the-badge" alt="Portfolio Badge"/>
+    <img src="https://img.shields.io/badge/My%20Portfolio-Explore-brightgreen?style=plastic" alt="Portfolio Badge"/>
   </a>
 </div>
 <br/>
