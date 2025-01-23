@@ -43,7 +43,8 @@ I'm always open to collaborating on exciting projects and learning from fellow Q
 
 [![Email Me](https://shields.io/badge/email_me-jellena.michaliova@gmail.com-blueviolet)](mailto:jellena.michaliova@gmail.com)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?JelenaMic=anuraghazra&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?JelenaMic=anuraghazra&show_icons=true&theme=radical"/>
+
 
 
 
