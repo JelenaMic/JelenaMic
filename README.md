@@ -29,6 +29,6 @@ Cloud Platforms: [AWS] [Azure] [Google Cloud]
 
 I'm always open to collaborating on exciting projects and learning from fellow QA professionals. Feel free to reach out!
 
-![Your Email]
-https://shields.io/badge/email_me-jellena.michaliova@gmail.com-blueviolet
+![https://shields.io/badge/email_me-jellena.michaliova@gmail.com-blueviolet]
+
 
