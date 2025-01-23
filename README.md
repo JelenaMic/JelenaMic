@@ -2,6 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=JelenaMic&color=blueviolet&style=plastic)
 
+![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+
 "Ensuring quality is not just a job, it's a passion."
 ![Badge: LinkedIn] ![Badge: Twitter]
 
