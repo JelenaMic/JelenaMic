@@ -1,4 +1,4 @@
-[Jelena Michaliova] - Quality Assurance Engineer
+Jelena Michaliova - Quality Assurance Engineer
 
 ![](https://komarev.com/ghpvc/?username=JelenaMic&color=blueviolet&style=plastic)
 
