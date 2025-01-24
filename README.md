@@ -20,7 +20,7 @@ This page showcases my journey, projects, and skills as I start my career in Qua
 Here are the programs and tools I currently work with:
 
 <div>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=java&logoColor=white" alt="Java Badge" style="width: 200px; height: auto;"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=java&logoColor=white" alt="Java Badge" style="width: 50px; height: auto;"/>
 </div>
 
 ![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=java&logoColor=white)&nbsp;&nbsp;&nbsp;
