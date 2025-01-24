@@ -22,7 +22,7 @@ Here are the programs and tools I currently work with:
 <div>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=java&logoColor=white" alt="Java Badge" style="width: 50px; height: auto;"/>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=plastic&logo=html5&logoColor=white" alt="HTML Badge" style="width: 80px; height: auto;"/>
-  <img src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white" alt="Markdown Badge" style="width: 50px; height: auto;"/>
+  <img src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white" alt="Markdown Badge" style="width: 80px; height: auto;"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=plastic&logo=postgresql&logoColor=white" alt="SQL Badge" style="width: 50px; height: auto;"/>
   <img src="https://img.shields.io/badge/JIRA-0052CC?style=plastic&logo=jira&logoColor=white" alt="JIRA Badge" style="width: 50px; height: auto;"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white" alt="Postman Badge" style="width: 50px; height: auto;"/>
