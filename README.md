@@ -34,32 +34,21 @@ Here are some of the exciting projects I’m currently working on:
 
 1. 🏠 **Real Estate Advertisement Testing**  
    - _Tested the process of adding advertisements on a real estate platform._  
-   - Platform URL: [Aruodas Advertisement Page](https://www.aruodas.lt/)
    - [View Repository](https://github.com/JelenaMic/SearchRETest)
    - **Key Tasks**:  
      - Validated form fields and user input.  
      - Tested UI responsiveness and edge cases for adding advertisements.  
-     - Identified and logged issues related to input validation and error messages.
 
 2. 🚄 **Railway Ticketing System Testing**  
    - _Conducted functional and exploratory testing of the railway ticketing system._  
-   - Platform URL: [LTG Link Ticketing System](https://bilietas.ltglink.lt)  
+   - [View Repository]()
    - **Key Tasks**:  
      - Verified the booking flow for single and round-trip tickets.
 ---
 
 ## 🌟 Certifications
-- 📜 **ISTQB Certified Tester - Foundation Level**  
-- 📜 **Postman API Testing Certificate**  
-- 📜 **AI-Foundations Course Completion**
-
----
-
-## 🎯 Portfolio Highlights
-Some key achievements from my QA journey:
-- Automated regression testing for a sample banking application.  
-- Validated API endpoints using **Postman**.  
-- Identified critical bugs in test environments, improving software reliability.
+- 📜 **Automation Testing Course**  
+- 📜 **AI Foundations Practice (ChatGPT, Claude, Midjourney)**  
 
 ---
 
@@ -77,11 +66,6 @@ Feel free to reach out and connect with me!
     <img src="https://img.shields.io/badge/My%20Portfolio-Explore-brightgreen?style=plastic" alt="Portfolio Badge"/>
   </a>
 </div>
-
----
-
-## 💡 Fun Fact
-_"The only thing I enjoy more than finding bugs is fixing them!"_
 
 ---
 
