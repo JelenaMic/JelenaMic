@@ -56,15 +56,15 @@ Here are some of the exciting projects I’m currently working on:
 Feel free to reach out and connect with me!  
 
 <div>
-  <a href="mailto:jellena.michaliova@gmail.com" target="_blank" style="display: inline-block; margin-right: 20px;">
+  <a href="mailto:jellena.michaliova@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-jellena.michaliova@gmail.com-blueviolet?style=plastic" alt="Email Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/jelena-michaliova-3a0449282/" target="_blank" style="display: inline-block; margin-right: 20px;">
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/jelena-michaliova-3a0449282/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Jelena%20Michaliova-0072b1?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-   <a href="https://jelenamic.github.io" target="_blank" style="display: inline-block; margin-right: 20px;">
+  </a>&nbsp;&nbsp;
+   <a href="https://jelenamic.github.io" target="_blank">
     <img src="https://img.shields.io/badge/My%20Portfolio-Explore-brightgreen?style=plastic" alt="Portfolio Badge"/>
-  </a>
+  </a>&nbsp;&nbsp;
 </div>
 
 ---
