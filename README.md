@@ -19,7 +19,7 @@ This page showcases my journey, projects, and skills as I start my career in Qua
 ## 🛠️ Skills & Tools
 Here are the programs and tools I currently work with:
 
-![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=java&logoColor=white)&nbsp;&nbsp;&nbsp;
+### ![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=java&logoColor=white)&nbsp;&nbsp;&nbsp;
 ![HTML Badge](https://img.shields.io/badge/HTML-E34F26?style=plastic&logo=html5&logoColor=white)&nbsp;&nbsp;&nbsp;
 ![Markdown Badge](https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white)&nbsp;&nbsp;&nbsp;
 ![SQL Badge](https://img.shields.io/badge/SQL-336791?style=plastic&logo=postgresql&logoColor=white)&nbsp;&nbsp;&nbsp;
