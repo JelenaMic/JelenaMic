@@ -57,13 +57,13 @@ Feel free to reach out and connect with me!
 
 <div>
   <a href="mailto:jellena.michaliova@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-jellena.michaliova@gmail.com-blueviolet?style=plastic" alt="Email Badge"/>
+    <img src="https://img.shields.io/badge/Email-jellena.michaliova@gmail.com-blueviolet?style=plastic" alt="Email Badge" style="margin-right: 100px;"/>
   </a>
   <a href="https://www.linkedin.com/in/jelena-michaliova-3a0449282/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Jelena%20Michaliova-0072b1?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Jelena%20Michaliova-0072b1?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="margin-right: 100px;"/>
   </a>
    <a href="https://jelenamic.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/My%20Portfolio-Explore-brightgreen?style=plastic" alt="Portfolio Badge"/>
+    <img src="https://img.shields.io/badge/My%20Portfolio-Explore-brightgreen?style=plastic" alt="Portfolio Badge" style="margin-right: 100px;"/>
   </a>
 </div>
 
