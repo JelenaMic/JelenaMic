@@ -29,6 +29,14 @@ Here are the programs and tools I currently work with:
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=plastic&logo=intellijidea&logoColor=white" alt="IntelliJ_IDEA Badge" style="width: 120px; height: auto;"/>
 </div>
 
+![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=java&logoColor=white)&nbsp;&nbsp;&nbsp;
+![HTML Badge](https://img.shields.io/badge/HTML-E34F26?style=plastic&logo=html5&logoColor=white)&nbsp;&nbsp;&nbsp;
+![Markdown Badge](https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white)&nbsp;&nbsp;&nbsp;
+![SQL Badge](https://img.shields.io/badge/SQL-336791?style=plastic&logo=postgresql&logoColor=white)&nbsp;&nbsp;&nbsp;
+![JIRA Badge](https://img.shields.io/badge/JIRA-0052CC?style=plastic&logo=jira&logoColor=white)&nbsp;&nbsp;&nbsp;
+![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)&nbsp;&nbsp;&nbsp;
+![IntelliJ IDEA Badge](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=plastic&logo=intellijidea&logoColor=white)&nbsp;&nbsp;&nbsp;
+
 ---
 
 ## 📂 Featured Projects  
