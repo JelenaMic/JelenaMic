@@ -1,5 +1,17 @@
 ## 👩‍💻 Jelena Michaliova - Quality Assurance Engineer  🚀
 
+<div>
+  <a href="mailto:jellena.michaliova@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-jellena.michaliova@gmail.com-blueviolet?style=plastic" alt="Email Badge"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/jelena-michaliova-3a0449282/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Jelena%20Michaliova-0072b1?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>&nbsp;&nbsp;
+   <a href="https://jelenamic.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/My%20Portfolio-Explore-brightgreen?style=plastic" alt="Portfolio Badge"/>
+  </a>&nbsp;&nbsp;
+</div>
+
 ![](https://komarev.com/ghpvc/?username=JelenaMic&color=blueviolet&style=plastic)
 
 Hi there! I'm **Jelena Michaliova**, a passionate and detail-oriented **QA Engineer** and recent graduate of a **QA Engineer Course**.
@@ -55,22 +67,7 @@ Here are some of the exciting projects I’m currently working on:
 ## 📞 Contact Me
 Feel free to reach out and connect with me!  
 
-<div>
-  <a href="mailto:jellena.michaliova@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-jellena.michaliova@gmail.com-blueviolet?style=plastic" alt="Email Badge"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/jelena-michaliova-3a0449282/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Jelena%20Michaliova-0072b1?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>&nbsp;&nbsp;
-   <a href="https://jelenamic.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/My%20Portfolio-Explore-brightgreen?style=plastic" alt="Portfolio Badge"/>
-  </a>&nbsp;&nbsp;
-</div>
-
 ---
 
 ## 🖤 Thank You for Visiting!
-I'm always open to collaborating on exciting projects and learning from fellow QA professionals. Feel free to reach out! 🎉
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=JelenaMic&show_icons=true&theme=radical" alt="GitHub Stats"/>
+I'm always open to collaborating on exciting projects and learning from fellow QA professionals. Feel free to reach out! 
