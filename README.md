@@ -39,7 +39,7 @@ Here are some of the exciting projects I’m currently working on:
      - Validated form fields and user input.  
      - Tested UI responsiveness and edge cases for adding advertisements.  
 
-2. 🚄 **Railway Ticketing System Testing**  
+2. 🚄 **Railway ticket sales platform testing**  
    - _Conducted functional and exploratory testing of the railway ticketing system._  
    - [View Repository]()
    - **Key Tasks**:  
