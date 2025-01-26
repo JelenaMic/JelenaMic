@@ -35,7 +35,7 @@ Here are some of the exciting projects I’m currently working on:
 1.🚄 **Railway Ticket Sales Platform Automated Testing**
 
 - Tested the LTG Link ticket system using automated tools.
-- View Repository <!-- Add your repository link here -->
+- [View Repository](https://github.com/JelenaMic/Railway_tickets_sales_platform.git)
  - **Main Tasks**:
  - Tested login with correct and incorrect user details.
  - Checked ticket search for one-way and round-trip options.
