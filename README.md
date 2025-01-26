@@ -2,17 +2,17 @@
 
 ![](https://komarev.com/ghpvc/?username=JelenaMic&color=blueviolet&style=plastic)
 
-Hi there! I'm **Jelena Michaliova**, a passionate and detail-oriented **QA Engineer** and recent graduate of a **QA Engineer Course**.
-This page showcases my journey, projects, and skills as I start my career in Quality Assurance.
+Hi! I'm **Jelena Michaliova**, a beginner **QA Engineer** and a recent graduate of a **QA Engineer Course**.
+This page shows my projects, skills, and my journey in Quality Assurance.
 
 ---
 
 ## ✨ About Me
-- 🎯 **Goal**: Deliver high-quality, bug-free software with a user-centric approach.  
-- 🧠 **Recently Completed**:  
-  - QA Engineer Course ✅  
-  - AI-Foundations Course ✅  
-- 💡 **Learning Focus**: Test automation, debugging techniques, and exploring innovative QA tools.
+🎯 **My Goal**: Help create software that works well and is easy to use.
+🧠 **What I Finished**:
+QA Engineer Course ✅
+AI-Foundations Course ✅
+💡 **What I’m Learning**: Test automation, fixing bugs, and trying new QA tools.
 
 ---
 
@@ -43,11 +43,6 @@ Here are some of the exciting projects I’m currently working on:
  - Used Java, Selenium, and TestNG to run tests.
        
 2. 🏠 **Real Estate Advertisement Testing**  
-   - _Tested the process of adding advertisements on a real estate platform._  
-   - [View Repository](https://github.com/JelenaMic/SearchRETest)
-   - **Key Tasks**:  
-     - Validated form fields and user input.  
-     - Tested UI responsiveness and edge cases for adding advertisements.
      
 ---
 
