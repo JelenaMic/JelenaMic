@@ -32,18 +32,23 @@ Here are the programs and tools I currently work with:
 ## 📂 Featured Projects  
 Here are some of the exciting projects I’m currently working on:  
 
-1. 🏠 **Real Estate Advertisement Testing**  
+1.🚄 **Railway Ticket Sales Platform Automated Testing**
+
+- Tested the LTG Link ticket system using automated tools.
+- View Repository <!-- Add your repository link here -->
+ - **Main Tasks**:
+ - Tested login with correct and incorrect user details.
+ - Checked ticket search for one-way and round-trip options.
+ - Made sure the logout button works correctly.
+ - Used Java, Selenium, and TestNG to run tests.
+       
+2. 🏠 **Real Estate Advertisement Testing**  
    - _Tested the process of adding advertisements on a real estate platform._  
    - [View Repository](https://github.com/JelenaMic/SearchRETest)
    - **Key Tasks**:  
      - Validated form fields and user input.  
-     - Tested UI responsiveness and edge cases for adding advertisements.  
-
-2. 🚄 **Railway ticket sales platform testing**  
-   - _Conducted functional and exploratory testing of the railway ticketing system._  
-   - [View Repository]()
-   - **Key Tasks**:  
-     - Verified the booking flow for single and round-trip tickets.
+     - Tested UI responsiveness and edge cases for adding advertisements.
+     
 ---
 
 ## 🌟 Certifications
